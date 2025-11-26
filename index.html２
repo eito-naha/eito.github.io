@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  　 <link href="style.css" rel="stylesheet">
+    <title>瑛音のポートフォリオ</title>
+  </head>
+  <body>
+    <h1>瑛音</h1>
+  </body>
+</html>
+
+    <h2>About</h2>
+    <p>
+    簡単なプログラミング
+    </p>
+
+    <h3>Profile</h3>
+    <ul>
+      <li>那覇瑛音</li>
+      <li>千葉県</li>
+      <li>まだなし</li>
+    </ul>
+    </table>
+
+    <h3>Works</h3>
+    <p>アピールできる活動内容を書きましょう。</p>
+    <ul>
+      <li><a href="https://www.vantan-game.com/special/tgs/tgs2024/sub_page_01.html">役者</a></li>
+      <li>
+        作った作品
+        <ul>
+          <li><a href="https://versesaver.jp/html/cast_audition2023/announcement.html">バースセイバー</a></li>
+        </ul>
+      </li>
+    </ul>
+
+    <h3>Contact</h3>　
+    <h3>History</h3>
